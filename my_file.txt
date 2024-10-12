@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2 with a number: 123.
+And this is line 3 with some more text.
+Appending line 4 with some text.
+Appending line 5 with a number: 456.
+Appending line 6 as the last line.
